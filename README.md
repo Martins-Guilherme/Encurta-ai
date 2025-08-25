@@ -1,21 +1,24 @@
-🔗 Link Shortener API
-Sobre o Projeto
+# 🔗 EncurtaAi API
+
+## Sobre o Projeto
+
 Aplicação Spring Boot para encurtamento de URLs com geração automática de QR Codes. Desenvolvida com JPA/Hibernate para persistência de dados.
-🚀 Funcionalidades
+
+## 🚀 Funcionalidades
 
 ✂️ Encurtamento de URLs - Transforma URLs longas em links curtos
 📱 QR Code - Gera códigos QR automaticamente para cada link
 🕒 Timestamp - Registra data/hora de criação
 💾 Persistência - Armazena dados com JPA/Hibernate
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 Java - Linguagem principal
 Spring Boot - Framework web
 JPA/Hibernate - Mapeamento objeto-relacional
 PostgreSQL - Banco de dados (Neon)
 
-🌐 Infraestrutura
+## 🌐 Infraestrutura
 
 Banco de Dados: PostgreSQL hospedado no Neon
 Persistência: JPA/Hibernate com configuração de variáveis de ambiente
