@@ -6,23 +6,30 @@ Aplicação Spring Boot para encurtamento de URLs com geração automática de Q
 
 ## 🚀 Funcionalidades
 
-✂️ Encurtamento de URLs - Transforma URLs longas em links curtos
-📱 QR Code - Gera códigos QR automaticamente para cada link
-🕒 Timestamp - Registra data/hora de criação
-💾 Persistência - Armazena dados com JPA/Hibernate
+<ul>
+    <li>✂️ Encurtamento de URLs - Transforma URLs longas em links curtos</li>
+    <li>📱 QR Code - Gera códigos QR automaticamente para cada link</li>
+    <li>🕒 Timestamp - Registra data/hora de criação</li>
+    <li>💾 Persistência - Armazena dados com JPA/Hibernate</li>
+</ul>
 
 ## 🛠️ Tecnologias
 
-Java - Linguagem principal
-Spring Boot - Framework web
-JPA/Hibernate - Mapeamento objeto-relacional
-PostgreSQL - Banco de dados (Neon)
+<ul>
+    <li>Java - Linguagem principal</li>
+    <li>Spring Boot - Framework web</li>
+    <li>JPA/Hibernate - Mapeamento objeto-relacional</li>
+    <li>PostgreSQL - Banco de dados (Neon)</li>
+</ul>
 
 ## 🌐 Infraestrutura
 
-Banco de Dados: PostgreSQL hospedado no Neon
-Persistência: JPA/Hibernate com configuração de variáveis de ambiente
-Segurança: Credenciais gerenciadas via variáveis de ambiente
+<ul>
+    <li>Banco de Dados: PostgreSQL hospedado no Neon</li>
+    <li>Persistência: JPA/Hibernate com configuração de variáveis de ambiente</li>
+    <li>Segurança: Credenciais gerenciadas via variáveis de ambiente</li>
+</ul>
+
 
 ## 📊 Modelo de Dados
 ```java
@@ -38,10 +45,16 @@ public class Link {
 ```
 
 ## 🎯 Casos de Uso
-- Compartilhamento de links em redes sociais
-- Campanhas de marketing digital
-- Analytics de cliques
-- Geração rápida de QR Codes
+<ol>
+    <li>- Compartilhamento de links em redes sociais</li>
+    <li>- Campanhas de marketing digital</li>
+    <li>- Analytics de cliques</li>
+    <li>- Geração rápida de QR Codes</li>
+    <ul>
+        <li><strong>em processo de desenvolvimento...</strong></li>
+    </ul>
+</ol>
+
 
 ## 📈 Próximos Passos
 - [ ] API REST completa
@@ -49,8 +62,9 @@ public class Link {
 - [ ] Analytics de cliques
 - [ ] Customização de links
 
----
+
 **Desenvolvido com ☕ e Spring Boot**
+
 
 ## 🔐 Segurança de Credenciais - Spring Boot
 
